@@ -24,7 +24,7 @@ This project goes beyond a standard RAG implementation. It features an **active 
 * **Core Framework:** LangChain
 * **LLM:** Google Gemini (via `langchain-google-genai`)
 * **Vector Store:** ChromaDB
-* **Embeddings:** Google `text-embedding-004` (or similar)
+* **Embeddings:** Sentence Transformers (`all-MiniLM-L6-v2`)
 
 ---
 
