@@ -1,0 +1,10 @@
+langchain
+langchain-core
+langchain-community
+pypdf
+pymupdf
+ipykernel
+unstructured[pdf]
+sentence-transformers
+chromadb
+langchain[google-genai]
